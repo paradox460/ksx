@@ -35,3 +35,5 @@ ksx-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# Ignore the database
+priv/database.sqlite3
