@@ -1,0 +1,11 @@
+[tools.bun]
+version = "1.2.21"
+backend = "core:bun"
+
+[tools.elixir]
+version = "1.18.4-otp-28"
+backend = "core:elixir"
+
+[tools.erlang]
+version = "28.0.2"
+backend = "core:erlang"
